@@ -4,8 +4,8 @@
 
     Tiene  los sigiuienes argumento se pueden declar sin orden preestablecido  sy la unica opcion obligatoria des el balor de la base los demas argumentos tinene valores por defecto 
 
- **b** base de la tabla a multiplicar
- **l** es limite de la tabla a multiplicae 
+>### **b** base de la tabla a multiplicar
+>### **l** es limite de la tabla a multiplicae 
 >### valor por deefecto 10 
 ## s es la posibilidad de mostrar la tabla o no  
 >### valor pro defecto false no se muestra 
